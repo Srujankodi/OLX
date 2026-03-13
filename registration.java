@@ -1,1 +1,12 @@
-Registration content includes the essential data collected from individuals or entities—such as names, contact details, identification numbers, and specific requirements—necessary to sign up for services, events, memberships, or official records
+public class MultiplyTwoNumbers {
+
+    public static void main(String[] args) {
+
+        float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    }
+}
