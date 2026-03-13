@@ -1,0 +1,1 @@
+Registration content includes the essential data collected from individuals or entities—such as names, contact details, identification numbers, and specific requirements—necessary to sign up for services, events, memberships, or official records
