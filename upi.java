@@ -1,2 +1,2 @@
 this is payments page
-  for transactions
+  for transactions from one acc to another acc
